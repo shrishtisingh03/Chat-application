@@ -23,6 +23,8 @@ Overall, this code demonstrates the basics of network programming with Java and 
 
 This Java code defines a simple network server that can accept connections from multiple clients and engage in a chat with them.
 
+
+SERVER SIDE...........................................................................................................................................................
 Let's go over the code step-by-step:
 
 The import statement imports the required Java libraries for working with network sockets and I/O streams.
